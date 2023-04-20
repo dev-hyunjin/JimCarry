@@ -73,7 +73,7 @@
 - 
 
 # ERD
-![짐캐리 포토폴리오 drawio](https://user-images.githubusercontent.com/122762287/233318944-3a9c8d7f-a950-4de0-a837-46c16d7c09e4.png)
+![짐캐리 포토폴리오 drawio](https://user-images.githubusercontent.com/122762287/233322002-5be1e3da-90ba-4e2a-ab88-38ad95b48aaf.png)
 
 # 프로젝트에서 느낀점
 - 어려웠던 부분 
