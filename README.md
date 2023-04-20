@@ -60,7 +60,7 @@
 - 백엔드 업무 : 관리자 페이지
 - DB 설계 및 구축 
 - 
-### 프론트 진행 - <a href="https://github.com/code-hyun/JimCarry/wiki/맡은-기능-소개--(프론트)#회원가입로그인" > 상세보기 - WIKI 이동</a>
+### 프론트 진행 - <a href="https://github.com/code-hyun/JimCarry/wiki/" > 상세보기 - WIKI 이동</a>
 - 회원가입 
 - 로그인
 - ID찾기, PW찾기
