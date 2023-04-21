@@ -74,8 +74,6 @@
 - 공지사항 상세페이지
 - 오류페이지(400, 404, 405, 500)
 
-<img width="1043" alt="jimcarry_퍼블리싱_진행상황" src="https://user-images.githubusercontent.com/122762367/233573588-fa26ee77-b3ac-4c1f-94fe-9db38910a94c.png">
-
 
 #### 백엔드 진행 - <a href="https://github.com/dev-hyunjin/JimCarry/wiki/맡은-기능-소개-(백엔드)" > 상세보기 - WIKI 이동</a>
 
@@ -87,8 +85,6 @@
 - 비밀번호 찾기 - 핸드폰
 - 비밀번호 찾기 - 이메일
 - 비밀번호 변경
-
-<img width="1137" alt="jimcarry_백엔드_진행상황" src="https://user-images.githubusercontent.com/122762367/233574484-a9750c5e-aad5-4511-b277-518cf8c544f0.png">
 
 
 # ERD
