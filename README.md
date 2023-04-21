@@ -60,7 +60,7 @@
 - 백엔드 업무 : 관리자 페이지
 - DB 설계 및 구축 
 - 
-### 퍼블리싱 작업(회원가입/로그인) - <a href="https://github.com/dev-hyunjin/JimCarry/wiki/맡은-기능-소개-(퍼블리싱)" > 상세보기 - WIKI 이동</a>
+### 퍼블리싱 작업(회원가입/로그인) - <a href="https://github.com/code-hyun/JimCarry/wiki/맡은-기능-소개--(퍼블리싱)" > 상세보기 - WIKI 이동</a>
  1. 회원가입 
  2. 로그인
  3. ID찾기, PW찾기
