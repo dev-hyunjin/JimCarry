@@ -61,9 +61,9 @@
 - DB 설계 및 구축 
 - 
 ### 프론트 작업(회원가입/로그인) - <a href="https://github.com/code-hyun/JimCarry/wiki/맡은-기능-소개--(프론트)" > 상세보기 - WIKI 이동</a>
-- 회원가입 
-- 로그인
-- ID찾기, PW찾기
+ 1. 회원가입 
+ 2. 로그인
+ 3. ID찾기, PW찾기
 
 ### 백엔드 작업(관리자 페이지) - <a href="https://github.com/code-hyun/JimCarry/wiki/맡은-기능-소개-(백엔드)" >상세보기 - WIKI 이동</a>
 ✨ 회원 관리
