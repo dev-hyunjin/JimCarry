@@ -60,7 +60,7 @@
 
 ## :pushpin: 맡은 역할
 
-#### 프론트 진행 - <a href=“” > 상세보기 - WIKI 이동</a>
+#### 프론트 진행 - <a href=“https://github.com/dev-hyunjin/JimCarry/wiki/%EB%A7%A1%EC%9D%80-%EA%B8%B0%EB%8A%A5-%EC%86%8C%EA%B0%9C-(%ED%8D%BC%EB%B8%94%EB%A6%AC%EC%8B%B1)” > 상세보기 - WIKI 이동</a>
 - 헤더
 - 푸터
 - 메인페이지
@@ -69,7 +69,7 @@
 - 공지사항 상세페이지
 - 오류페이지(400, 404, 405, 500)
 
-#### 백엔드 진행 - <a href=“” >상세보기 - WIKI 이동</a>
+#### 백엔드 진행 - <a href=“https://github.com/dev-hyunjin/JimCarry/wiki/%EB%A7%A1%EC%9D%80-%EA%B8%B0%EB%8A%A5-%EC%86%8C%EA%B0%9C-(%EB%B0%B1%EC%97%94%EB%93%9C)” >상세보기 - WIKI 이동</a>
 
 ##### 회원가입, 로그인, 아이디 찾기, 비밀번호 찾기
 - 회원가입
@@ -79,9 +79,10 @@
 - 비밀번호 찾기 - 핸드폰
 - 비밀번호 찾기 - 이메일
 - 비밀번호 변경
-- 회원탈퇴
 
 # ERD
+![짐캐리 포토폴리오 drawio](https://user-images.githubusercontent.com/122762367/233571878-705a5117-3b1e-4b33-aaaa-46514db16b89.png)
+
 # 프로젝트에서 느낀점
 - 어려웠던 부분
  :
