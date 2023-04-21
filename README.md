@@ -69,7 +69,7 @@
  5. 결제 관리 (목록, 상세보기, 검색, 삭제)<br>
  6. 공지 관리 (목록, 작성, 상세보기/수정, 검색, 삭제)<br>
 
-## ERD
+## ✨ ERD
 ![짐캐리 포토폴리오 drawio](https://user-images.githubusercontent.com/122762287/233322002-5be1e3da-90ba-4e2a-ab88-38ad95b48aaf.png)
 
 ## ✨ 프로젝트에서 느낀점
