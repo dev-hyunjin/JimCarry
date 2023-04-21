@@ -60,17 +60,18 @@
 - 백엔드 업무 : 관리자 페이지
 - DB 설계 및 구축 
 - 
-### 프론트 진행 - <a href="https://github.com/code-hyun/JimCarry/wiki/맡은-기능-소개--(프론트)" > 상세보기 - WIKI 이동</a>
+### 프론트 작업(회원가입/로그인) - <a href="https://github.com/code-hyun/JimCarry/wiki/맡은-기능-소개--(프론트)" > 상세보기 - WIKI 이동</a>
 - 회원가입 
 - 로그인
 - ID찾기, PW찾기
 
-### 백엔드 진행 - <a href="https://github.com/code-hyun/JimCarry/wiki/맡은-기능-소개-(백엔드)" >상세보기 - WIKI 이동</a>
-##### 관리자 페이지 
--
-- 
-- 
-- 
+### 백엔드 진행(관리자 페이지) - <a href="https://github.com/code-hyun/JimCarry/wiki/맡은-기능-소개-(백엔드)" >상세보기 - WIKI 이동</a>
+- 회원 관리
+- 창고 관리
+- 문의 관리
+- 리뷰 관리
+- 결제 관리
+- 공지 관리
 
 # ERD
 ![짐캐리 포토폴리오 drawio](https://user-images.githubusercontent.com/122762287/233322002-5be1e3da-90ba-4e2a-ab88-38ad95b48aaf.png)
